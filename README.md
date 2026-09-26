@@ -1,5 +1,12 @@
 # Your GitHub Learning Lab Repository for Introducing GitHub
 
+## Repository guide — 2026-09-27
+
+A GitHub Learning Lab exercise repository containing a Jekyll-based slideshow.
+
+- Slides and presentation layouts are learning-course material, not a deployed product maintained by this repository review.
+- The original course instructions remain below; historical Learning Lab links may no longer represent an active course.
+
 Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through.
 
 Oh! I haven't introduced myself...
